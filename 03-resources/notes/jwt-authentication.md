@@ -32,7 +32,7 @@ It's a special type of token that is created with three inputs:
 2. When a request is made, check if refresh token is the collection of tokens you're tracking in the server, if yes, then verify both tokens, if all is correct sign a new access token and keep going
 3. Always remove refresh token from the collection whenever user logs-out
 
-**Auth management accross multiple devices from the same user**
+**Auth management across multiple devices from the same user**
 + Store a refresh token version in session (or tokens) (related to userId in users table) table in db and whenever you create a refereshToken save it there
 + each time access token gets invalid, the server will check the user version with the version stored in the db, if is valid, the it will create a new access token and keep going
 ![[Pasted image 20240826230013.png]]
