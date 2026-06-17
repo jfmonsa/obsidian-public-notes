@@ -12,5 +12,5 @@ Foundational CS topics. Each sub-area below is its own MOC.
 + [[public-notes/03-resources/algorithms.moc|Algorithms & Data Structures]]
 + [[public-notes/03-resources/ai.moc|Artificial Intelligence]]
 + [[public-notes/03-resources/simulation.moc|Computational Simulation]]
-+ Theory — complexity, constraint programming *(pending migration)*
-+ Foundations — OOP, FP, language fundamentals *(pending migration)*
++ [[public-notes/03-resources/theory.moc|Theory]]
++ [[public-notes/03-resources/foundations.moc|Foundations]]
