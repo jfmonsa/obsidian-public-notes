@@ -11,7 +11,7 @@ Map of software-engineering topics. Each sub-area below is its own MOC.
 ## Sub-areas
 + [[public-notes/03-resources/patterns.moc|Design Patterns & Principles]]
 + [[public-notes/03-resources/frontend|Frontend]]
-+ Backend *(pending migration)*
++ [[public-notes/03-resources/backend.moc|Backend]]
 + System Design *(pending migration)*
 + [[public-notes/03-resources/databases.moc|Databases]]
 + DevOps *(pending migration)*
