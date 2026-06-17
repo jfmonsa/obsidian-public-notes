@@ -9,7 +9,7 @@ expressed via tags + these MOCs (a note can belong to several).
 
 ## Categories
 + [[public-notes/03-resources/software-development.moc|Software Development]]
-+ Computer Science *(pending migration)*
++ [[public-notes/03-resources/computer-science.moc|Computer Science]]
 + Languages *(pending migration)*
 + Math *(pending migration)*
 + Uni courses *(pending migration)*
