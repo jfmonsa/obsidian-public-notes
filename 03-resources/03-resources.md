@@ -12,7 +12,7 @@ expressed via tags + these MOCs (a note can belong to several).
 + [[public-notes/03-resources/computer-science.moc|Computer Science]]
 + [[public-notes/03-resources/languages.moc|Languages]]
 + [[public-notes/03-resources/math.moc|Math]]
-+ Uni courses *(pending migration)*
++ [[public-notes/03-resources/uni-courses.moc|Uni Courses]]
 
 ## Other
 + [[ai_agentic_coding]]
