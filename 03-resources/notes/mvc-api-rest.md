@@ -3,7 +3,7 @@ mocs:
     - "[[public-notes/03-resources/system-design.moc.md|System Design]]"
 tags:
     - dev/system-design
-    - lang-es
+    - meta/lang/es
 ---
 
 # MVC architecture for Rest API (Focused on express)

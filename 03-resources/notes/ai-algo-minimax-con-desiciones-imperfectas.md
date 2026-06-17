@@ -3,7 +3,7 @@ mocs:
     - "[[public-notes/03-resources/ai.moc.md|Artificial Intelligence]]"
 tags:
     - cs/ai
-    - lang-es
+    - meta/lang/es
 ---
 
 Existen juegos que son muy complejos, de tal manera que sería imposible explorar todos los estados posibles: ej: ajedrez, go. En la practica necesitaríamos memoria infinita

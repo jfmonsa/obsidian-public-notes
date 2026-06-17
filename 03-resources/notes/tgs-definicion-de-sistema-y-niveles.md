@@ -3,7 +3,7 @@ mocs:
     - "[[public-notes/03-resources/tgs.moc.md|Teoría General de Sistemas]]"
 tags:
     - uni/tgs
-    - lang-es
+    - meta/lang/es
 ---
 
 # Chapter 3 - Que es un Sistema?

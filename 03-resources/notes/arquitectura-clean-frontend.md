@@ -3,7 +3,7 @@ mocs:
     - "[[public-notes/03-resources/frontend.md|Frontend]]"
 tags:
     - dev/frontend
-    - lang-es
+    - meta/lang/es
 ---
 
 

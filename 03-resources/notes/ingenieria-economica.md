@@ -3,7 +3,7 @@ mocs:
     - "[[public-notes/03-resources/uni-courses.moc.md|Uni Courses]]"
 tags:
     - uni/courses
-    - lang-es
+    - meta/lang/es
 ---
 
 **Objetivos**

@@ -3,7 +3,7 @@ mocs:
     - "[[public-notes/03-resources/databases.moc.md|Databases]]"
 tags:
     - dev/databases
-    - lang-es
+    - meta/lang/es
 ---
 
 # Diseño Lógico - Modelo Relacional

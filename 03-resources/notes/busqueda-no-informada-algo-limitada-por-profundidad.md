@@ -3,7 +3,7 @@ mocs:
     - "[[public-notes/03-resources/ai.moc.md|Artificial Intelligence]]"
 tags:
     - cs/ai
-    - lang-es
+    - meta/lang/es
 ---
 
 # Algo Búsqueda Limitada Por Profundidad
