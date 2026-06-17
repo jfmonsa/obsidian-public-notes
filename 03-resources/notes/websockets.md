@@ -10,7 +10,7 @@ tags:
 + provides **bi-directional communication** between server and client with the usage of a single long-lasting [TCP connection](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 + Layer 7 (OSI)
 + not protected by same-origin policy
-+ Client and server **listen** and emit **events** to comunicate
++ Client and server **listen** and emit **events** to communicate
 + Implemented on top of **http**
 ## Javascript
 + **ws** - a node package to emulate the WebSocket support for browsers but for node and usually used as a server (though it can do both)
