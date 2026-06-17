@@ -13,7 +13,7 @@ Map of software-engineering topics. Each sub-area below is its own MOC.
 + [[public-notes/03-resources/frontend|Frontend]]
 + Backend *(pending migration)*
 + System Design *(pending migration)*
-+ Databases *(pending migration)*
++ [[public-notes/03-resources/databases.moc|Databases]]
 + DevOps *(pending migration)*
 + Tools *(pending migration)*
 + Practices — SDLC, testing, optimization *(pending migration)*
