@@ -25,7 +25,7 @@ Arquitecturas Recomendadas (Muy similares entre si)
 + hexagonal
 + onion
 ### Arquitectura Clean apuntes
-+ [[Arquitectura CLEAN para front (React.js)]]
++ [[arquitectura-clean-frontend]]
 ## 4. Hook
 + Fragmento de lógica que representa el ==ciclo de vida== de un componente ==(se crea, ejecuta y muere)== y es reutilizable
 	+ built-in hooks como: useState, useEffect, etc.
