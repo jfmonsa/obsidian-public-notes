@@ -35,7 +35,7 @@ tags:
 - [[#n. Syntax Mix|n. Syntax Mix]]
 
 ## 1. How Java Works?
-![[assets/Pasted image 20240625122839.png]]
+![[Pasted image 20240625122839.png]]
 1. Write one application and run it anywhere
 2. Write your java program -> Compile it (javac)
 3. The compiler creates a new document coded into Java ***Bytecode*** (.class files)
@@ -90,17 +90,17 @@ Book b = new Book();
 Book c = new Book();
 ```
 1. Ex: 2 objects, 2 references
-![[assets/Pasted image 20240625162626.png]]
+![[Pasted image 20240625162626.png]]
 2. Ex: 3 References, 2 objects. Note: 2 variables (c and d) refers to the same object
 ```java
 Book d = c;
 ```
-![[assets/Pasted image 20240625162901.png]]
+![[Pasted image 20240625162901.png]]
 3. Ex: Changing the reference: (c and b) refers to the same object
 ```java
 c = b;
 ```
-![[assets/Pasted image 20240625163146.png]]
+![[Pasted image 20240625163146.png]]
 ## 4. Arrays & ArrayList
 + Arrays are objects too
 ```java

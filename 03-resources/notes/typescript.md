@@ -18,7 +18,7 @@ tags:
 + Primitive types, type inference, explicit type declaration: (interfaces, type unions and generics), structural type sustem (duck typing)
 ## 2 - [[typescript-more-on-types]]
 + Interfaces vs Types, Type assertions `as`, Literal Types and `as const`, how to handle strictNullChecks: on (Non-null assertion operator `!`)
-## 3 - [[ts - Narrowing ]]
+## 3 - [[#Narrowing]]
 
 # Narrowing
 explicitly check if a type is correct when we have union types and one operations is incompatible with some types of the union
