@@ -16,4 +16,4 @@ Map of software-engineering topics. Each sub-area below is its own MOC.
 + [[public-notes/03-resources/databases.moc|Databases]]
 + [[public-notes/03-resources/devops.moc|DevOps & Cloud]]
 + [[public-notes/03-resources/tools.moc|Tools & Environment]]
-+ Practices — SDLC, testing, optimization *(pending migration)*
++ [[public-notes/03-resources/practices.moc|Practices]]
