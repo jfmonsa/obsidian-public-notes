@@ -1,8 +1,8 @@
 ---
 mocs:
-    - "[[public-notes/03-resources/languages.moc.md|Languages]]"
+  - "[[programming-languages.moc|Languages]]"
 tags:
-    - lang/java
+  - lang/java
 ---
 
 + Strongly-typed language

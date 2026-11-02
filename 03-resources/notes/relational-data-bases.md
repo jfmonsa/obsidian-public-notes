@@ -11,7 +11,7 @@ status:
 tags: #index
 ___
 
-# 1 - [[basic-concepts]]
+# 1 - [[db-basic-concepts]]
 # 2- [[diseno-conceptual-erd-modelo-entidad-relacion]]
 # 3 - [[diseno-logico-modelo-relacional]]
 # 4 - [[normalization-and-denormalization]]

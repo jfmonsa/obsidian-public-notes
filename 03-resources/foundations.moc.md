@@ -10,7 +10,7 @@ tags:
 Core programming concepts and paradigms.
 
 ## Notes
-+ [[basic-concepts]]
++ [[db-basic-concepts]]
 + [[programming-languages-fundamentals]]
 + [[oop]]
 + [[fp-functional-programming]]

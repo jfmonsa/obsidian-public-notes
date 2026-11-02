@@ -1,8 +1,8 @@
 ---
 mocs:
-    - "[[public-notes/03-resources/languages.moc.md|Languages]]"
+  - "[[programming-languages.moc|Languages]]"
 tags:
-    - lang/cpp
+  - lang/cpp
 ---
 
 + Created in 1979 by Bjarne Stroustrup extending C

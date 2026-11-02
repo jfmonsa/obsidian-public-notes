@@ -1,8 +1,8 @@
 ---
 mocs:
-    - "[[public-notes/03-resources/languages.moc.md|Languages]]"
+  - "[[programming-languages.moc|Languages]]"
 tags:
-    - lang/javascript
+  - lang/javascript
 ---
 
 ## 1. Hello World

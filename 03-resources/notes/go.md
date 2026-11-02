@@ -1,8 +1,8 @@
 ---
 mocs:
-    - "[[public-notes/03-resources/languages.moc.md|Languages]]"
+  - "[[programming-languages.moc|Languages]]"
 tags:
-    - lang/go
+  - lang/go
 ---
 
 + **Statically Typed Language**: types must be declare explicitly or can be inferred, variables cannot change typing afterwards.
