@@ -10,7 +10,7 @@ Map of software-engineering topics. Each sub-area below is its own MOC.
 
 ## Sub-areas
 + [[public-notes/03-resources/patterns.moc|Design Patterns & Principles]]
-+ [[public-notes/03-resources/frontend|Frontend]]
++ [[public-notes/03-resources/frontend.moc|Frontend]]
 + [[public-notes/03-resources/backend.moc|Backend]]
 + [[public-notes/03-resources/system-design.moc|System Design]]
 + [[public-notes/03-resources/databases.moc|Databases]]

@@ -1,6 +1,6 @@
 ---
 mocs:
-    - "[[public-notes/03-resources/frontend.md|Frontend]]"
+    - "[[public-notes/03-resources/frontend.moc.md|Frontend]]"
 tags:
     - dev/frontend
     - dev/system-design
