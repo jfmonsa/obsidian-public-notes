@@ -15,4 +15,4 @@ expressed via tags + these MOCs (a note can belong to several).
 + [[public-notes/03-resources/uni-courses.moc|Uni Courses]]
 
 ## Other
-+ [[ai_agentic_coding]]
++ [[ai-agentic-coding]]

@@ -14,7 +14,7 @@ start_date: 2026-04-14 07:23
 
 ## Frameworks
 + [[public-notes/03-resources/react.moc|React]]
-+ [[public-notes/03-resources/vue.js|Vue.js]]
++ [[public-notes/03-resources/vue.moc|Vue.js]]
 
 ## Styling & design
 + [[css]]

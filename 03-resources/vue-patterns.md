@@ -1,6 +1,6 @@
 ---
 mocs:
-    - "[[vue.js]]"
+    - "[[vue.moc]]"
 tags:
   - programming_patterns
 start_date: 2026-04-14 07:28

@@ -1,6 +1,6 @@
 ---
 mocs:
-    - "[[public-notes/03-resources/vue.js.md|Vue.js]]"
+    - "[[public-notes/03-resources/vue.moc.md|Vue.js]]"
 tags:
     - dev/frontend/vue
 ---
